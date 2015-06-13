@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Couchbase stub file for usage in a IDE",
   "homepage": "http://github.com/nickcuper/couchbase-stub",
-  "keywords": ["couchbase", "stub", "IDE"],
+  "keywords": ["couchbase", "stub", "php", "IDE"],
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
