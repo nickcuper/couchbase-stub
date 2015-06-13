@@ -4,7 +4,7 @@
   "description": "Couchbase stub file for usage in a IDE",
   "homepage": "http://github.com/nickcuper/couchbase-stub",
   "keywords": ["couchbase", "stub", "IDE"],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
